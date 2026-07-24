@@ -30,18 +30,6 @@ El proyecto extiende la plataforma base de Garzón y Sarria [[AN5ROS]](#referenc
 
 ---
 
-## 🎬 Demo
-
-<p align="center">
-  <img src="docs/images/demo_rcm.gif" alt="Demo RCM activo" width="600"/>
-</p>
-
-<p align="center">
-  <em>Robot AN5 ejecutando una secuencia laparoscópica con restricción RCM activa</em>
-</p>
-
----
-
 ## 🏗️ Arquitectura del sistema
 
 ```
