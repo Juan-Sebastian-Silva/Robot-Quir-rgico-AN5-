@@ -238,7 +238,7 @@ j1,j2,j3,j4,j5,j6,speed,0,ikX,ikY,ikZ
 | **Programa** | Ingeniería en Automática Industrial |
 | **Autor** | Juan Sebastián Silva |
 | **Director** | PhD. Oscar Andrés Vivas Albán |
-| **Año** | 2025 |
+| **Año** | 2026 |
 
 ---
 
