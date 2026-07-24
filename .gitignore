@@ -1,0 +1,43 @@
+# ===== Unity =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.vs/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+mono_crash.*
+
+# Unity generated meta/solution files that shouldn't be versioned
+ExportedObj/
+crashlytics-build.properties
+
+# ===== ROS2 / colcon =====
+**/build/
+**/install/
+**/log/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ===== MATLAB / Simulink =====
+*.slxc
+slprj/
+codegen/
+*.asv
+*.autosave
+
+# ===== OS junk =====
+Thumbs.db
+.DS_Store
