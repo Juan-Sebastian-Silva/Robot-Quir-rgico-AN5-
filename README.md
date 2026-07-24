@@ -1,7 +1,7 @@
 # 🤖 Manipulación del robot AN5 al interior de un modelo físico de abdomen humano
 
 <p align="center">
-  <img src="docs/images/banner.png" alt="Plataforma RCM AN5" width="800"/>
+  <img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/9ce2dcd3-b91e-4c28-8e4b-780659474478" />
 </p>
 
 <p align="center">
